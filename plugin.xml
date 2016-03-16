@@ -1,0 +1,12 @@
+<plugin name='rimm' version='0.1' grailsVersion='2.4 &gt; *'>
+  <author>Your name</author>
+  <title>Rimm Plugin</title>
+  <description>Brief summary/description of the plugin.
+</description>
+  <documentation>http://grails.org/plugin/rimm</documentation>
+  <type>RimmGrailsPlugin</type>
+  <resources>
+    <resource>am.webbfontaine.training.rimm.Company</resource>
+    <resource>am.webbfontaine.training.rimm.Country</resource>
+  </resources>
+</plugin>
